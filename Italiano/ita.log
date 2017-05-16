@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.5.1)  16 MAY 2017 17:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.5.1)  16 MAY 2017 17:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -643,15 +643,9 @@ uppo
  []
 
 
-Overfull \hbox (24.5738pt too wide) in paragraph at lines 36--39
-\OT1/cmr/m/n/10 su-pe-ruomo sar^^Ra rein-ter-pre-tato e stra-volto da Gabriele 
-d'Annunzio,
- []
-
-
-Overfull \hbox (7.14326pt too wide) in paragraph at lines 36--39
-\OT1/cmr/m/n/10 ar-rivando ad-dirit-tura all'appropriazione che ne fece il nazi
-smo. 
+Overfull \hbox (6.29613pt too wide) in paragraph at lines 36--39
+\OT1/cmr/m/n/10 Gabriele d'Annunzio, ar-rivando ad-dirit-tura all'appropriazion
+e
  []
 
 
@@ -664,48 +658,48 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.70 			d
-         i stelle per l'aria tranquilla\\ [1
+l.62 		\newpage
+                [1
 
 
 ]
-Overfull \hbox (4.10805pt too wide) in paragraph at lines 105--109
+Overfull \hbox (4.10805pt too wide) in paragraph at lines 107--111
  []\OT1/cmr/bx/n/10 Spiegazione[] \OT1/cmr/m/n/10 Cam-bia la lin-gua, toglie le
  pa-role ar-caiche.
  []
 
 
-Overfull \hbox (17.16919pt too wide) in paragraph at lines 105--109
+Overfull \hbox (17.16919pt too wide) in paragraph at lines 107--111
 \OT1/cmr/m/n/10 toriche. \OT1/cmr/bx/n/10 Par-al-lelismo \OT1/cmr/m/n/10 (ron-d
 ine uomo)e \OT1/cmr/bx/n/10 ono-mato-pea \OT1/cmr/m/n/10 ("pigola"
  []
 
 
-Overfull \hbox (5.73772pt too wide) in paragraph at lines 175--176
+Overfull \hbox (5.73772pt too wide) in paragraph at lines 177--178
  []\OT1/cmr/bx/n/10 Spiegazione[] \OT1/cmr/m/n/10 De-scrizione di un trauma im-
 provviso. Non
  []
 
 [2] [3]
-Overfull \hbox (13.78217pt too wide) in paragraph at lines 243--248
+Overfull \hbox (13.78217pt too wide) in paragraph at lines 245--250
 \OT1/cmr/m/n/10 clud-ere gli studi ac-ca-demici a Bonn, citt^^Ra in cui ha l'op
 portunit^^Ra
  []
 
 
-Overfull \hbox (13.47044pt too wide) in paragraph at lines 251--261
+Overfull \hbox (13.47044pt too wide) in paragraph at lines 253--263
 \OT1/cmr/m/n/10 dello non ci sono vie d'uscita dalle \trap-pole", l\OT1/cmr/bx/
 n/10 'unica salvezza
  []
 
 
-Overfull \hbox (7.89319pt too wide) in paragraph at lines 270--273
+Overfull \hbox (7.89319pt too wide) in paragraph at lines 272--275
 \OT1/cmr/m/n/10 Aron Hec-tor Schmitz nacque nel 1861 a Tri-este da una famiglia
 
  []
 
 
-Overfull \hbox (7.44882pt too wide) in paragraph at lines 270--273
+Overfull \hbox (7.44882pt too wide) in paragraph at lines 272--275
 \OT1/cmr/m/n/10 Svevo conobbe la de-clas-sazione pas-sando dall'agio della borg
 h-
  []
@@ -713,24 +707,24 @@ h-
 [4
 
 ] [5]
-Overfull \hbox (0.73859pt too wide) in paragraph at lines 286--286
+Overfull \hbox (0.73859pt too wide) in paragraph at lines 288--288
 []\OT1/cmr/bx/n/12 Manifesto tec-nico della let-ter-atura fu-
  []
 
 
-Overfull \hbox (7.33774pt too wide) in paragraph at lines 298--299
+Overfull \hbox (7.33774pt too wide) in paragraph at lines 300--301
 []\OT1/cmr/m/n/10 \l'abitudine all'energia" = la con-sue-tu-dine al di-namismo 
 
  []
 
 
-Overfull \hbox (28.86557pt too wide) in paragraph at lines 299--300
+Overfull \hbox (28.86557pt too wide) in paragraph at lines 301--302
 []\OT1/cmr/m/n/10 \Il cor-ag-gio, l'audacia, la ri-bel-lione" = l'eroismo, l'ar
 dimento,
  []
 
 
-Overfull \hbox (20.16986pt too wide) in paragraph at lines 305--306
+Overfull \hbox (20.16986pt too wide) in paragraph at lines 307--308
 []\OT1/cmr/m/n/10 \Il Tempo e lo Spazio morirono ieri" = I sec-oli e l'immensit
 ^^Ra
  []
@@ -738,24 +732,24 @@ Overfull \hbox (20.16986pt too wide) in paragraph at lines 305--306
 [6
 
 ]
-Overfull \hbox (17.33772pt too wide) in paragraph at lines 318--323
+Overfull \hbox (17.33772pt too wide) in paragraph at lines 320--325
 \OT1/cmr/m/n/10 vita" di Carlo Bo, che con-tiene i fon-da-menti teorico-metodol
 ogici
  []
 
 
-Overfull \hbox (0.96268pt too wide) in paragraph at lines 328--335
+Overfull \hbox (0.96268pt too wide) in paragraph at lines 330--337
 \OT1/cmr/m/n/10 Giuseppe Un-garetti nacque nel 1888 ad Alessan-dria d'Egitto.
  []
 
 
-Overfull \hbox (1.64322pt too wide) in paragraph at lines 341--345
+Overfull \hbox (1.64322pt too wide) in paragraph at lines 343--347
 \OT1/cmr/m/n/10 loro, quest'ultima svolge la fun-zione di sve-lare il lato nasc
 osto
  []
 
 
-Overfull \hbox (1.67104pt too wide) in paragraph at lines 382--383
+Overfull \hbox (1.67104pt too wide) in paragraph at lines 384--385
 \OT1/cmr/m/n/10 in Sol-dati, la fragilit^^Ra umana ^^Re espressa dall'autore at
 -traverso
  []
@@ -763,22 +757,22 @@ Overfull \hbox (1.67104pt too wide) in paragraph at lines 382--383
 [7
 
 ] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 562--563
+Underfull \hbox (badness 10000) in paragraph at lines 564--565
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 590--593
+Underfull \hbox (badness 10000) in paragraph at lines 592--595
 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 613--614
+Underfull \hbox (badness 10000) in paragraph at lines 615--616
 
  []
 
 
-Overfull \hbox (4.17105pt too wide) in paragraph at lines 681--682
+Overfull \hbox (4.17105pt too wide) in paragraph at lines 683--684
 []\OT1/cmr/m/n/10 analogia tra il pianto dei bam-bini e il be-lato dell'agnello
 ,
  []
@@ -789,7 +783,7 @@ Overfull \hbox (4.17105pt too wide) in paragraph at lines 681--682
 
 
 ]
-Overfull \hbox (9.17102pt too wide) in paragraph at lines 715--718
+Overfull \hbox (9.17102pt too wide) in paragraph at lines 717--720
 \OT1/cmr/m/n/10 azione famigliare sp-iega la sua fragilit^^Ra psi-co-log-ica (\
 il mestiere
  []
@@ -797,12 +791,12 @@ il mestiere
 [12
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 734--735
+Underfull \hbox (badness 10000) in paragraph at lines 736--737
 
  []
 
 
-Overfull \hbox (3.5497pt too wide) in paragraph at lines 761--761
+Overfull \hbox (3.5497pt too wide) in paragraph at lines 763--763
 []\OT1/cmr/bx/n/12 Neorealismo e com-po-nente fan-tas-tica 
  []
 
@@ -811,45 +805,45 @@ Overfull \hbox (3.5497pt too wide) in paragraph at lines 761--761
 ]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 773.
+               Default added (so using `tbp') on input line 775.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 777.
+(Font)              <7> on input line 779.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 777.
+(Font)              <5> on input line 779.
 
-Overfull \hbox (4.11554pt too wide) in paragraph at lines 777--793
+Overfull \hbox (4.11554pt too wide) in paragraph at lines 779--795
  [][] 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 807.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 809.
 [14
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 807.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 809.
  (./ita.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 807.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 807.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 809.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 809.
 Package rerunfilecheck Info: File `ita.out' has not changed.
 (rerunfilecheck)             Checksum: E48DD34A125B4B30B29C12B349C1B3A0;3840.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 807.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 809.
  ) 
 Here is how much of TeX's memory you used:
  6343 strings out of 494942
  90980 string characters out of 6180502
- 186533 words of memory out of 5000000
+ 187533 words of memory out of 5000000
  9239 multiletter control sequences out of 15000+600000
  8847 words of font info for 31 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,7n,28p,1809b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,7n,28p,1809b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ita.pdf (15 pages, 148934 bytes).
+Output written on ita.pdf (15 pages, 148979 bytes).
 PDF statistics:
  700 PDF objects out of 1000 (max. 8388607)
  670 compressed objects within 7 object streams
