@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.5.1)  16 MAY 2017 09:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.5.1)  16 MAY 2017 15:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 4 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@chapter=\count80
@@ -560,12 +560,12 @@ LaTeX Font Info:    ... okay on input line 10.
 * \topmargin=-80.81725pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=12.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=44.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -623,33 +623,102 @@ LaTeX Info: Redefining \nameref on input line 10.
 \openout3 = `ita.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 15.
+(Font)              <12> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Chapter 1.
+
+Overfull \hbox (8.41177pt too wide) in paragraph at lines 20--23
+\OT1/cmr/m/n/10 una civilt^^Ra. Queste idee er-ano pro-prie dei cir-coli d'avan
+guardia
+ []
+
+
+Overfull \hbox (9.0322pt too wide) in paragraph at lines 36--39
+\OT1/cmr/m/n/10 tradizionale e di non farsi in-fluen-zare, mi-rando ad uno svil
+uppo
+ []
+
+
+Overfull \hbox (24.5738pt too wide) in paragraph at lines 36--39
+\OT1/cmr/m/n/10 su-pe-ruomo sar^^Ra rein-ter-pre-tato e stra-volto da Gabriele 
+d'Annunzio,
+ []
+
+
+Overfull \hbox (7.14326pt too wide) in paragraph at lines 36--39
+\OT1/cmr/m/n/10 ar-rivando ad-dirit-tura all'appropriazione che ne fece il nazi
+smo. 
+ []
+
+
+Overfull \hbox (0.21735pt too wide) in paragraph at lines 43--44
+\OT1/cmr/m/n/10 famiglia della pic-cola borgh-e-sia ru-rale. La sua in-fanzia v
+enne
+ []
+
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 	\chapter
-              {Romanzo psicologico} [1
+l.61 
+      [1
 
-] [2]
-Chapter 2.
-[3
 
 ]
-Chapter 3.
+Overfull \hbox (4.10805pt too wide) in paragraph at lines 105--109
+ []\OT1/cmr/bx/n/10 Spiegazione[] \OT1/cmr/m/n/10 Cam-bia la lin-gua, toglie le
+ pa-role ar-caiche.
+ []
+
+
+Overfull \hbox (17.16919pt too wide) in paragraph at lines 105--109
+\OT1/cmr/m/n/10 toriche. \OT1/cmr/bx/n/10 Par-al-lelismo \OT1/cmr/m/n/10 (ron-d
+ine uomo)e \OT1/cmr/bx/n/10 ono-mato-pea \OT1/cmr/m/n/10 ("pigola"
+ []
+
+
+Overfull \hbox (5.73772pt too wide) in paragraph at lines 175--176
+ []\OT1/cmr/bx/n/10 Spiegazione[] \OT1/cmr/m/n/10 De-scrizione di un trauma im-
+provviso. Non
+ []
+
+[2] [3]
+Chapter 2.
+
+Overfull \hbox (13.78217pt too wide) in paragraph at lines 243--248
+\OT1/cmr/m/n/10 clud-ere gli studi ac-ca-demici a Bonn, citt^^Ra in cui ha l'op
+portunit^^Ra
+ []
+
+
+Overfull \hbox (13.47044pt too wide) in paragraph at lines 251--261
+\OT1/cmr/m/n/10 dello non ci sono vie d'uscita dalle \trap-pole", l\OT1/cmr/bx/
+n/10 'unica salvezza
+ []
+
 [4
 
 ]
-Chapter 4.
+Chapter 3.
 [5
 
-] [6
+
+]
+Chapter 4.
+
+Overfull \hbox (17.33772pt too wide) in paragraph at lines 280--285
+\OT1/cmr/m/n/10 vita" di Carlo Bo, che con-tiene i fon-da-menti teorico-metodol
+ogici
+ []
+
+[6
+
 
 ] [7
 
@@ -657,53 +726,58 @@ Chapter 4.
 
 ] [9
 
-] [10] [11
+] [10
 
-] [12] [13
+] [11] [12
 
-] [14]
+] [13] [14
+
+] [15]
 Chapter 5.
-[15
+[16
 
-] [16
+] [17
 
 ]
 Chapter 6.
 
-Underfull \hbox (badness 10000) in paragraph at lines 486--487
+Underfull \hbox (badness 10000) in paragraph at lines 694--695
 
  []
 
-[17
+[18
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 533.
- [18
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 741.
+ [19
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 533.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 741.
  (./ita.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 533.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 533.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 741.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 741.
 Package rerunfilecheck Info: File `ita.out' has not changed.
-(rerunfilecheck)             Checksum: 42733A63C06106EBAD5412FC263E76B8;3735.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 533.
+(rerunfilecheck)             Checksum: 9F337CBAE141EB015CB7852CD85A6C3B;4186.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 741.
  ) 
 Here is how much of TeX's memory you used:
- 6233 strings out of 494942
- 89572 string characters out of 6180502
- 177512 words of memory out of 5000000
- 9226 multiletter control sequences out of 15000+600000
- 6976 words of font info for 25 fonts, out of 8000000 for 9000
+ 6335 strings out of 494942
+ 90843 string characters out of 6180502
+ 184487 words of memory out of 5000000
+ 9242 multiletter control sequences out of 15000+600000
+ 9154 words of font info for 32 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,6n,28p,1417b,365s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on ita.pdf (19 pages, 85206 bytes).
+ 29i,6n,28p,1417b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on ita.pdf (20 pages, 140151 bytes).
 PDF statistics:
- 585 PDF objects out of 1000 (max. 8388607)
- 555 compressed objects within 6 object streams
- 261 named destinations out of 1000 (max. 500000)
- 489 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 718 PDF objects out of 1000 (max. 8388607)
+ 683 compressed objects within 7 object streams
+ 339 named destinations out of 1000 (max. 500000)
+ 553 words of extra memory for PDF output out of 10000 (max. 10000000)
 
