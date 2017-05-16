@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.5.1)  16 MAY 2017 16:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.5.1)  16 MAY 2017 17:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -631,8 +631,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Chapter 1.
-
 Overfull \hbox (8.41177pt too wide) in paragraph at lines 20--23
 \OT1/cmr/m/n/10 una civilt^^Ra. Queste idee er-ano pro-prie dei cir-coli d'avan
 guardia
@@ -666,8 +664,8 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.61 
-      [1
+l.70 			d
+         i stelle per l'aria tranquilla\\ [1
 
 
 ]
@@ -689,8 +687,6 @@ provviso. Non
  []
 
 [2] [3]
-Chapter 2.
-
 Overfull \hbox (13.78217pt too wide) in paragraph at lines 243--248
 \OT1/cmr/m/n/10 clud-ere gli studi ac-ca-demici a Bonn, citt^^Ra in cui ha l'op
 portunit^^Ra
@@ -717,8 +713,6 @@ h-
 [4
 
 ] [5]
-Chapter 3.
-
 Overfull \hbox (0.73859pt too wide) in paragraph at lines 286--286
 []\OT1/cmr/bx/n/12 Manifesto tec-nico della let-ter-atura fu-
  []
@@ -744,74 +738,121 @@ Overfull \hbox (20.16986pt too wide) in paragraph at lines 305--306
 [6
 
 ]
-Chapter 4.
-
 Overfull \hbox (17.33772pt too wide) in paragraph at lines 318--323
 \OT1/cmr/m/n/10 vita" di Carlo Bo, che con-tiene i fon-da-menti teorico-metodol
 ogici
  []
 
+
+Overfull \hbox (0.96268pt too wide) in paragraph at lines 328--335
+\OT1/cmr/m/n/10 Giuseppe Un-garetti nacque nel 1888 ad Alessan-dria d'Egitto.
+ []
+
+
+Overfull \hbox (1.64322pt too wide) in paragraph at lines 341--345
+\OT1/cmr/m/n/10 loro, quest'ultima svolge la fun-zione di sve-lare il lato nasc
+osto
+ []
+
+
+Overfull \hbox (1.67104pt too wide) in paragraph at lines 382--383
+\OT1/cmr/m/n/10 in Sol-dati, la fragilit^^Ra umana ^^Re espressa dall'autore at
+-traverso
+ []
+
 [7
 
-
-] [8
-
-] [9
-
-] [10
-
-] [11
-
-] [12] [13
-
-] [14] [15
-
-] [16]
-Chapter 5.
-[17
-
-] [18
-
-]
-Chapter 6.
-
-Underfull \hbox (badness 10000) in paragraph at lines 732--733
+] [8]
+Underfull \hbox (badness 10000) in paragraph at lines 562--563
 
  []
 
-[19
+
+Underfull \hbox (badness 10000) in paragraph at lines 590--593
+
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 613--614
+
+ []
+
+
+Overfull \hbox (4.17105pt too wide) in paragraph at lines 681--682
+[]\OT1/cmr/m/n/10 analogia tra il pianto dei bam-bini e il be-lato dell'agnello
+,
+ []
+
+[10
+
+] [11
+
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 779.
- [20
+Overfull \hbox (9.17102pt too wide) in paragraph at lines 715--718
+\OT1/cmr/m/n/10 azione famigliare sp-iega la sua fragilit^^Ra psi-co-log-ica (\
+il mestiere
+ []
+
+[12
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 779.
+Underfull \hbox (badness 10000) in paragraph at lines 734--735
+
+ []
+
+
+Overfull \hbox (3.5497pt too wide) in paragraph at lines 761--761
+[]\OT1/cmr/bx/n/12 Neorealismo e com-po-nente fan-tas-tica 
+ []
+
+[13
+
+]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 773.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 777.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 777.
+
+Overfull \hbox (4.11554pt too wide) in paragraph at lines 777--793
+ [][] 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 807.
+[14
+
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 807.
  (./ita.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 779.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 779.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 807.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 807.
 Package rerunfilecheck Info: File `ita.out' has not changed.
-(rerunfilecheck)             Checksum: F10104114D9AA8BFFE902C69B33A96F2;4249.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 779.
+(rerunfilecheck)             Checksum: E48DD34A125B4B30B29C12B349C1B3A0;3840.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 807.
  ) 
 Here is how much of TeX's memory you used:
- 6351 strings out of 494942
- 90975 string characters out of 6180502
- 184487 words of memory out of 5000000
- 9243 multiletter control sequences out of 15000+600000
- 9154 words of font info for 32 fonts, out of 8000000 for 9000
+ 6343 strings out of 494942
+ 90980 string characters out of 6180502
+ 186533 words of memory out of 5000000
+ 9239 multiletter control sequences out of 15000+600000
+ 8847 words of font info for 31 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 29i,6n,28p,1809b,337s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,7n,28p,1809b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on ita.pdf (21 pages, 149863 bytes).
+Output written on ita.pdf (15 pages, 148934 bytes).
 PDF statistics:
- 742 PDF objects out of 1000 (max. 8388607)
- 705 compressed objects within 8 object streams
- 354 named destinations out of 1000 (max. 500000)
- 561 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 700 PDF objects out of 1000 (max. 8388607)
+ 670 compressed objects within 7 object streams
+ 350 named destinations out of 1000 (max. 500000)
+ 513 words of extra memory for PDF output out of 10000 (max. 10000000)
 
